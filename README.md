@@ -144,14 +144,13 @@ Restart the service: <br/>
 </p>
 
 <p align="center">
-Back on the Ubuntu machine go to thw brower and refresh the page, you should now see our new agent we added: <br/>
+Back on the Ubuntu machine go to the brower and refresh the page, you should now see our new agent we added: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/19.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/20.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
