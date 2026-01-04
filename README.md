@@ -197,35 +197,35 @@ Creating a fake file within the directory: <br/>
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+I created a bunch more files just because it initially didn't show up in the events: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/27.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-I created a bunch more files just because it initially didn't show up in the events: <br/>
+Now I can see real time updates on the Ubuntu machine: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/28.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Now I can see real time updates on the Ubuntu machine: <br/>
+Some information availible from one of the events: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/29.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Deleting fake files: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/30.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Verifying I can see them being deleted on my Ubuntu machine: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/31.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
