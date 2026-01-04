@@ -157,42 +157,40 @@ Back on the Ubuntu machine go to the brower and refresh the page, you should now
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Now that the connection between our devices is set up, this next part will be showing an example of how Wazuh can be a useful tool for file integrity monitoring. By adding a specific directory for wazuh to track in the ossec.conmf file, we can get real time updates of changes that are made to this directory remotely from our Ubuntu device: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/21.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Creating new directory for testing: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/22.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Restart the Wazuh agent: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/23.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Creating a fake file within the directory: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/24.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/25.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/26.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -206,14 +204,14 @@ Launch the utility: <br/>
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+I created a bunch more files just because it initially didn't show up in the events: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/28.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Now I can see real time updates on the Ubuntu machine: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/29.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
