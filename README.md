@@ -63,90 +63,88 @@ Use the IP address of your Ubuntu machine and type it into the browser to access
 </p>
 
 <p align="center">
+The username and password should have been given to you after the installation: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/7.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/8.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/9.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+On your windows machine download the Wazuh agent. Before downloading select version 4.12 (I tried the latest version and ran into conflicts): <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/10.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Download installer: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/11.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+In the Wazuh agent enter the IP of your Ubuntu device and press save: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/12.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Back on the Ubuntu machine, use command to add an Agent to our Wazuh: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/13.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Get the IP from the Windows device: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/14.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Use the windows IP for our new agent: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/15.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+We will get an authentication key after adding the agent and now it needs to be added to our windows device: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/16.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/17.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Restart the service: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/18.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Back on the Ubuntu machine go to thw brower and refresh the page, you should now see our new agent we added: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/19.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
