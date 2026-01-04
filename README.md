@@ -22,49 +22,47 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Create a Ubuntu virtual machine with VirtualBox: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/1.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Go into the settings of the newly created Ubuntu machine and change it's network adapter to "Bridged Network": <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/2.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Using a command to add a Wazuh GPG key: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/3.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/4.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Use commanmd to download and Execute Wazuh Installation: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/5.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
+Use the IP address of your Ubuntu machine and type it into the browser to access the Wazuh Dashboard: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/6.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 </p>
 
 <p align="center">
-Launch the utility: <br/>
 <img src="https://github.com/shawnholland/Wazuh_SIEM_Installation/blob/main/docs/7.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
